@@ -9,6 +9,7 @@
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js">
 </script>
 <script type="text/javascript">
+!Change3
 function details(e)
 {
 	var BookTitle = document.getElementById("BookTitle");
