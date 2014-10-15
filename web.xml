@@ -18,4 +18,3 @@
     <url-pattern>/*</url-pattern>
   </filter-mapping>
 </web-app>
-!this is web.xml
