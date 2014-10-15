@@ -32,3 +32,4 @@ function details(e)
 		</table>
 	</body>
 </html>
+!this is booklists.jsp
