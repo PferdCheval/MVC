@@ -39,4 +39,8 @@ public class DeleteAction {
 		}
 	}
 }
-//Change 2
+<<<<<<< HEAD
+//Change 3
+=======
+//Change 3
+>>>>>>> B3

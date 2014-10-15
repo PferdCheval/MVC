@@ -66,4 +66,8 @@ public class Query{
 		}
 	}
 }
+<<<<<<< HEAD
 //Change 2
+=======
+//Change 2
+>>>>>>> B3
